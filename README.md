@@ -2,4 +2,4 @@
 paging jquery
 
 
-DEMO : https://susepsupriatna.github.io/paging
+DEMO : https://susepdev.github.io/paging
